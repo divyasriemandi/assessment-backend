@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "address": "Hiking in mountains is a great way to celebrate",
+      "imageURL" : "https://th.bing.com/th/id/R.43eb62e8b9dc834100a10db415256175?rik=TzxZdGwb3AZpEg&pid=ImgRaw&r=0"
+    },
+    {
+      "id": 2,
+      "address": "Exercising is a great idea to help you keep calm and healthy",
+      "imageURL" : "https://chicago.gopride.com/c/i/38480-115445.jpg"
+    },
+    {
+      "id": 3,
+      "address": "Swimming helps relax your body and mind",
+      "imageURL" : "https://th.bing.com/th/id/R.90b0a798055c1b4a56014f31e643b348?rik=8It5AKMvd%2b8kag&riu=http%3a%2f%2fmotionphysio.ie%2fwp-content%2fuploads%2f2016%2f02%2fSwimming.jpg&ehk=eGitcZbwmnx3TxLBC2TGljljuIXfOFUJLgp3Hk379Tw%3d&risl=&pid=ImgRaw&r=0"
+    },
+
+    {
+        "id": 4,
+        "address": "Reading Books helps relax your body and mind and to gain knowledge as well",
+        "imageURL" : "https://th.bing.com/th/id/R.9bf980a6714e101e6ca18b20ab994dcc?rik=Kdbc7VVJG47Upw&riu=http%3a%2f%2fi.huffpost.com%2fgen%2f1468193%2fimages%2fo-TEEN-READING-NOVEL-facebook.jpg&ehk=UUOY7Zh%2bF%2fRnNd81Zwy%2f56NehwnMmHb57ldzgAgn0KA%3d&risl=&pid=ImgRaw&r=0"
+      }
+
+  ]
